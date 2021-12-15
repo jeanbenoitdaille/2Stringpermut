@@ -1,2 +1,1 @@
-# 2Stringpermut
-Permuter 2 strings 
+#Pile ou face
